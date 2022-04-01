@@ -4,7 +4,7 @@
 
 import matplotlib.pyplot as plt
 from scipy.special import j1, jn_zeros
-from numpy import linspace, sin, pi
+from numpy import linspace, pi
 import sys
 
 if __name__ == '__main__':
