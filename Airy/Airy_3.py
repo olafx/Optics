@@ -7,7 +7,6 @@ import matplotlib.colors as clrs
 from scipy.special import j1, jn_zeros
 from numpy import linspace, meshgrid, pi, sqrt, sin, cos, log
 
-ZEROS = False
 xl = 18
 res = 1000
 θ = pi / 6
