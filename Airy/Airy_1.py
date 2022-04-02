@@ -22,4 +22,4 @@ if ZEROS:
 plt.xlim(-xl, xl)
 plt.xlabel(r'$k a \sin \theta$')
 plt.ylabel('$I / I_0$')
-plt.show()
+plt.savefig('Airy_1.png', dpi=400)
