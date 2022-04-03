@@ -15,3 +15,7 @@
 ## Variable intensity Airy patterns
 
 ![Airy_4](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_4.png)
+
+## Wavelength to RGB conversion
+
+![Airy_5](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_5.png)
