@@ -52,6 +52,8 @@ representable in RGB, so even when integrated over all wavelengths. Can't do any
 import numpy as np
 import matplotlib.pyplot as plt
 
+n = 10 ** 3
+
 # asymmetric Gaussian
 def g(λ, μ, σ1, σ2):
     if λ < μ:
@@ -67,9 +69,8 @@ def λ_to_XYZ(λ):
 
 # CIE 1931 provided RGB -> XYZ transformer
 RGB_to_XYZ = 1 / 0.17697 * np.array([[.49, .31, .2], [.17697, .81240, .01063], [0, .01, .99]])
-XYZ_to_RGB = np.linalg.inv(RGB_to_XYZ)
 
-n = 10**3
+XYZ_to_RGB = np.linalg.inv(RGB_to_XYZ)
 
 λs = np.linspace(360, 830, n)
 colors = np.empty([n, 3])
