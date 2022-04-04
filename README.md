@@ -23,3 +23,10 @@
 ## Normalized Planck blackbody spectrum
 
 ![Airy_6](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_6.png)
+
+## 2D Airy pattern of Planck blackbody spectrum as seen by human eye
+
+![Airy_7_1](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_7_1.png)
+![Airy_7_2](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_7_2.png)
+![Airy_7_3](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_7_3.png)
+![Airy_7_4](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_7_4.png)
