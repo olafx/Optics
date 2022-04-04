@@ -20,6 +20,6 @@
 
 ![Airy_5](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_5.png)
 
-## Planck's blackbody spectrum
+## Normalized Planck blackbody spectrum
 
 ![Airy_6](https://raw.githubusercontent.com/olafx/Optics/master/renders/Airy_6.png)
